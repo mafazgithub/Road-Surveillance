@@ -1,6 +1,6 @@
 # Road Surveillance Service
 
-Road surveillance project. It includes detection and tracking.
+Road surveillance project for Sovereign Corporation. It includes detection and tracking.
 
 ## Detection
 
